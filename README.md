@@ -74,6 +74,26 @@ An AI-powered study engine that generates interactive flashcards using Google Ge
 
 ---
 
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:samrthchavan8@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/samrthchavan8-boop">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://x.com/samtechy05">
+<img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+</div>
+
 <div align="center">
 
 ### 🚀 Build • Learn • Innovate
