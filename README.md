@@ -80,4 +80,14 @@ An AI-powered study engine that generates interactive flashcards using Google Ge
 
 ⭐ Thanks for visiting my profile!
 
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/samrthchavan8-boop/samrthchavan8-boop/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
+
+</div>
+
 </div>
